@@ -39,6 +39,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
+        android:id="@+id/btnTap"
         android:layout_width="wrap_content"
         android:layout_height="@dimen/btn_height"
         android:background="@drawable/bg_button_primary"

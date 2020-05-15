@@ -3,4 +3,5 @@
     <string name="timeLabel">"Time Left : %1$d"</string>
     <string name="tapLabel">Tap Me !</string>
     <string name="scoreLabel">Your Score : \n %1$d.</string>
+    <string name="gameOverMessage">Time up ! your score %1$d.</string>
 </resources>

@@ -4,4 +4,7 @@
     <string name="tapLabel">Tap Me !</string>
     <string name="scoreLabel">Your Score : \n %1$d.</string>
     <string name="gameOverMessage">Time up ! your score %1$d.</string>
+    <string name="aboutLabel">About</string>
+    <string name="aboutTitle">Time Fighter</string>
+    <string name="messageInfo">Created by Mighty Kotlin Developer</string>
 </resources>

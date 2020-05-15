@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Time Fighter</string>
+    <string name="timeLabel">"Time : "</string>
 </resources>

@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">Time Fighter</string>
-    <string name="timeLabel">"Time Left : %1$d"</string>
-    <string name="tapLabel">Tap Me !</string>
-    <string name="scoreLabel">Your Score : \n %1$d.</string>
-    <string name="gameOverMessage">Time up ! your score %1$d.</string>
-    <string name="aboutLabel">About</string>
-    <string name="aboutTitle">Time Fighter</string>
-    <string name="messageInfo">Created by Mighty Kotlin Developer</string>
+    <string name="Start">Tap Me</string>
+    <string name="dummy_score">234</string>
+    <string name="time_left">Time Left</string>
+    <string name="total_score">Congratulation, your score is %1s.</string>
+    <string name="score_text">Score</string>
+    <string name="about_text">About</string>
+    <string name="message_info">This second time fighter with mvvm pattern</string>
 </resources>

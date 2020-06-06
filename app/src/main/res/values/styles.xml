@@ -7,17 +7,4 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-
-    <style name="labelText" parent="AppTheme">
-        <item name="android:textSize">@dimen/medium_text_size</item>
-        <item name="android:textColor">@color/colorBlack</item>
-        <item name="android:textStyle">bold</item>
-    </style>
-
-    <style name="primaryText" parent="AppTheme">
-        <item name="android:textSize">@dimen/extra_large_text_size</item>
-        <item name="android:textColor">@color/colorBlack</item>
-        <item name="android:textStyle">bold</item>
-    </style>
-
 </resources>
